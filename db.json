@@ -1,0 +1,52 @@
+{
+    "users":[
+        {
+           "id": 1,
+           "name": "Felipe",
+           "last-name": "Silva",
+           "email": "abc@gmail.com",
+           "gender": "non-binarie"
+
+        },
+        {
+            "id": 2,
+            "name": "Glyn",
+            "last-name": "Pheasant",
+            "email": "gpheasant0@weibo.com",
+            "gender": "Male"
+
+        },
+        {
+            "id": 3, 
+            "name": "Rafe", 
+            "last-name": "McKinie", 
+            "email": "rmckinie1@xinhuanet.com", 
+            "gender": "Male"
+
+        },
+        {
+            "id": 4,
+            "name": "Adolf", 
+            "last-name": "Josum", 
+            "email": "ajosum2@mapquest.com", 
+            "gender": "Male"
+
+        },
+        {
+            "id": 5, 
+            "name": "Leia", 
+            "last-name": "Lansdown", 
+            "email": "llansdown3@lycos.com", 
+            "gender": "Female"
+
+        },
+        {
+            "id": 6, 
+            "name": "Maire", 
+            "last-name": "Reppaport", 
+            "email": "mreppaport4@scribd.com", 
+            "gender": "Bigender"
+
+        }
+    ]
+}
